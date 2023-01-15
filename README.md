@@ -50,8 +50,6 @@ At a very high level this website will have following elements.
 
 ## Technology ##
 
-### List database tables ###
-
 ### Select development technologies ###
 
 HTMNL, CSS, Javascript
@@ -61,13 +59,14 @@ What else?
 
 VS Code
 
-
-### GitHub configuration ###
-
+### List database tables ###
 
 ### What will be the naming conventions ###
 
 Name of the folders, variables pre-fix etc.
+
+### GitHub configuration ###
+
 
 
 
