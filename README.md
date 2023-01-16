@@ -48,7 +48,7 @@ Boast.io
 
 ## High level project plan & action steps ##
 
-1/ Work breakdown.  
+1/ Create work breakdown.  
 2/ Create work backlog.  
 3/ High level technical design.  
 [database scructure, high-level steps to create pages]
