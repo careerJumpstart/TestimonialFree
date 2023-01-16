@@ -11,8 +11,8 @@ A testimonial website help potential customers learn more about a business or pr
 
 ## Users persona ##
 
-1/ People who want to recieve testimonials   
-2/ People who want to submit testimonials
+2/ People who want to recieve testimonials.    
+3/ People who want to submit testimonials.    
 
 
 ## What this testimonial website will do ##
@@ -23,6 +23,27 @@ At a very high level this website will have following elements.
 2/ Submit testimonials, edit, delete  
 3/ List testimonials   
 4/ Create embed code to display testimonials on other websites. 
+
+
+## Similar websites ##
+
+1/ Testimonial.io   
+2/ shoutout   
+3/ Senja    
+4/ vouch    
+5/ Luego
+
+### Video testimonial website ###
+
+VideoPeel   
+VideoAsk    
+Boast.io
+
+#### Wordpress Plugins ####
+1/ https://wordpress.org/plugins/strong-testimonials (Open Source)    
+2/ https://wordpress.org/plugins/testimonial-free/
+3/ https://wordpress.org/plugins/site-reviews
+4/ https://www.commoninja.com/widgets/testimonials
 
 
 ## High level project plan & action steps ##
