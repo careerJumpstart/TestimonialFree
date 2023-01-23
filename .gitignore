@@ -349,6 +349,7 @@ MigrationBackup/
 
 
 backend/testimonial-free/node_modules
+frontend/testimonial-free/node_modules
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
