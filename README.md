@@ -3,6 +3,8 @@ Testimonial Free is an open-source testimonial web application with an ambition 
 
 This project aims to provide web developers with a team environment to make web applications and confidently discuss this project in their interviews for their next job/promotion.
 
+Read more at https://github.com/careerJumpstart/TestimonialFree/wiki/Getting-Started%3A-All-About-Testimonial-Free-Website
+
 
 ## Why do we need a testimonial website? ##
 
