@@ -29,9 +29,9 @@ At a very high level this website will have following elements.
 
 ## Technology Stack ##
 
-Join the conversation to pick the technologies: https://github.com/orgs/careerJumpstart/discussions/4
+Join the conversation to pick the technologies: https://github.com/careerJumpstart/TestimonialFree/wiki
 
-Join the conversation for technical design: https://github.com/orgs/careerJumpstart/discussions/6
+Join the conversation for technical design: https://github.com/careerJumpstart/TestimonialFree/wiki
 
 
 ## High level project plan & action steps ##
