@@ -353,3 +353,8 @@ frontend/testimonial-free/node_modules
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+.obsidian
+**/node_modules/
+**/.next/
+**/.vscode/
