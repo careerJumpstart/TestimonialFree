@@ -13,8 +13,10 @@ A testimonial website help potential customers learn more about a business or pr
 
 ## Users persona - who will use this website? ##
 
+1/ People who want to read/interact with (e.g. like, save) testimonials.
 2/ People who want to recieve testimonials.    
 3/ People who want to submit testimonials.    
+
 
 
 ## Features - What this testimonial website will do ##
