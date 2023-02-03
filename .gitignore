@@ -3,6 +3,9 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+backend/dist/*
+.DS_Store
+
 # User-specific files
 *.rsuser
 *.suo
@@ -353,3 +356,9 @@ frontend/testimonial-free/node_modules
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+.obsidian
+**/node_modules/
+**/.next/
+**/.vscode/
+**/dist/
