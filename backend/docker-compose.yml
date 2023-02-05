@@ -1,0 +1,15 @@
+version: '2.4'
+
+services:
+  db:
+    image: mongo:4.0.17-xenial
+    ports:
+      - 27017:27017
+    environment:
+      - MONGO_INITDB_DATABASE=${DB_NAME}
+    restart: always
+    volumes:
+      - db-data:/data/db:delegated
+
+volumes:
+  db-data:
